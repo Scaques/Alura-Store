@@ -46,4 +46,4 @@ Menos Vendidos: Guitarra acústica, Armario, Guitarra eléctrica
 
 ## 5 - Envío Promedio por Tienda
 
-Por último, analizando el costo promedio de envío por tienda, vemos que la Tienda 1 posee el mayor de $ 26.019.- y la Tienda 4 el menor con 23.459.-
+Por último, analizando el costo promedio de envío por tienda, vemos que la Tienda 1 posee el mayor de $ 26.019.- y la Tienda 4 el menor con $ 23.459.-
